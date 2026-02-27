@@ -357,3 +357,4 @@ JOIN dim_well w ON f.well_id = w.well_id
 GROUP BY w.well_name
 ORDER BY npt_hours DESC;
 
+
