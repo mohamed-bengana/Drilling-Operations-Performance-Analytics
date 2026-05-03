@@ -6,7 +6,7 @@ This project provides an advanced analytics solution for monitoring drilling per
 The solution integrates operational drilling data to support performance optimization, cost reduction, and risk management.
 
 ---
-<img src="power bi dashboard/1(1).png" width="1200"/> 
+<img src="power bi dashboard/1 (1).png" width="1200"/> 
 
 ## 🧰 Tools & Technologies
 - **Python** → Data cleaning, preprocessing, and transformation  
